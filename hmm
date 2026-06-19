@@ -1,0 +1,54 @@
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Untuk Johan 🎉</title>
+<style>
+body{
+    background:#ffe6f2;
+    font-family:Arial,sans-serif;
+    text-align:center;
+    padding:30px;
+}
+.card{
+    background:white;
+    max-width:700px;
+    margin:auto;
+    padding:30px;
+    border-radius:20px;
+    box-shadow:0 0 15px rgba(0,0,0,.1);
+}
+p{
+    font-size:22px;
+    margin:15px 0;
+}
+h1{
+    color:#ff4d88;
+}
+</style>
+</head>
+<body>
+<div class="card">
+    <h1>🎂 Untuk Johan 🎂</h1>
+
+    <p>1. halooo johaaaann</p>
+    <p>2. happy birthdaayyy</p>
+    <p>3. semoga hari inii kamu happy yaaaa</p>
+    <p>4. sowwyyy aku kasi ini aja yaaa</p>
+    <p>5. aku gagal bikin yang aku mau</p>
+    <p>6. coba aku tau dari jauh jauh hari</p>
+    <p>7. pasti dah aku bikinin bagus</p>
+    <p>8. hmmmm apayaaa</p>
+
+    <p>9.</p>
+    <p>9x - 7i > 3(3x - 7u)</p>
+    <p>9x - 7i > 9x - 21u</p>
+    <p>-7i > -21u</p>
+    <p><b>i &lt; 3u ❤️</b></p>
+
+    <p>10. selamat 11 tahunnya yaaa</p>
+    <p>11. HAHAHA</p>
+    <p>12. sekiaaannn lopyuuu juspren manja 💖</p>
+</div>
+</body>
+</html>
